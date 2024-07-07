@@ -30,8 +30,5 @@ This project is a simple clone of the Amazon website, built using HTML and CSS. 
 
 ## Screenshot
 
-![Screenshot](screenshots/ss1.png)
-![Screenshot](screenshots/ss2.png)
-![Screenshot](screenshots/ss3.png)
-![Screenshot](screenshots/ss4.png)
+![Screenshot](screenshots/ss1.png)![Screenshot](screenshots/ss2.png)![Screenshot](screenshots/ss3.png)![Screenshot](screenshots/ss4.png)
 
