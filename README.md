@@ -29,6 +29,13 @@ This project is a simple clone of the Amazon website, built using HTML and CSS. 
 - `images/`: A directory containing images used in the project.
 
 ## Screenshot
+## Screenshot
 
-![Screenshot](screenshots/ss1.png)![Screenshot](screenshots/ss2.png)![Screenshot](screenshots/ss3.png)![Screenshot](screenshots/ss4.png)
+<div style="display: flex; flex-wrap: nowrap;">
+    <img src="screenshots/ss1.png" alt="Screenshot 1" style="margin: 0;">
+    <img src="screenshots/ss2.png" alt="Screenshot 2" style="margin: 0;">
+    <img src="screenshots/ss3.png" alt="Screenshot 3" style="margin: 0;">
+    <img src="screenshots/ss4.png" alt="Screenshot 4" style="margin: 0;">
+</div>
+
 
