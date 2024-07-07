@@ -30,6 +30,6 @@ This project is a simple clone of the Amazon website, built using HTML and CSS. 
 
 ## Screenshot
 
-![Screenshot](header_ss.png)
-![Screenshot](content_ss.png)
-![Screenshot](footer_ss.png)
+![Screenshot](screenshots/header_ss.png)
+![Screenshot](screenshots/content_ss.png)
+![Screenshot](screenshots/footer_ss.png)
