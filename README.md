@@ -18,7 +18,7 @@ This project is a simple clone of the Amazon website, built using HTML and CSS. 
 
 1. Clone this repository.
     ```sh
-    git clone https://github.com/yourusername/amazon-webpage-clone.git
+    git clone https://github.com/Manikanta-484/amazon-webpage-clone.git
     ```
 2. Open the `index.html` file in your preferred web browser.
 
@@ -30,6 +30,6 @@ This project is a simple clone of the Amazon website, built using HTML and CSS. 
 
 ## Screenshot
 
-![Screenshot](header.png)
-![Screenshot](content.png)
-![Screenshot](footer.png)
+![Screenshot](Amazon clone/header.png)
+![Screenshot](Amazon clone/content.png)
+![Screenshot](Amazon clone/footer.png)
